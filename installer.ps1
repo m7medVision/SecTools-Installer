@@ -9,10 +9,5 @@ for ($i = 0; $i -lt $TOOLS.Length; $i++) {
 }
 Write-Host "Installing sqlmap..."
 py -3 -m pip install sqlmap
-Write-Host "Downloading XSStrike..."
-git clone https://github.com/s0md3v/XSStrike.git $HOME\Tools\XSStrike
-Write-Host "Downlloading DangerousZone Pack...."
-git clone https://github.com/malwares/DangerousZone $HOME\Tools\DangerousZone
-Write-Host "Downloading SecLists..."
-git clone https://github.com/danielmiessler/SecLists $HOME\Tools\SecLists
+./m.bat
 Write-Host "Installing tools...[OK]"

@@ -41,5 +41,6 @@ This is a simple powershell script that can install most important tools for cyb
 | 32  | ghidra              |
 | 33  | jadx                |
 | 33  | metasploitframework |
+| 34  | VirtualBox          |
 
  

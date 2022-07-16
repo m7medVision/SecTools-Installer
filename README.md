@@ -42,5 +42,6 @@ This is a simple powershell script that can install most important tools for cyb
 | 33  | jadx                |
 | 33  | metasploitframework |
 | 34  | VirtualBox          |
+| 34  | PuTTY               |
 
  

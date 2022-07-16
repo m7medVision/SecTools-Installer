@@ -27,21 +27,20 @@ This is a simple powershell script that can install most important tools for cyb
 | 18  | Discord             |
 | 19  | NodeJS              |
 | 20  | Nginx               |
-| 21  | apache              |
-| 22  | adb                 |
-| 23  | mitmproxy           |
-| 24  | powershell          |
-| 25  | dotpeek             |
-| 26  | Pycharm Community   |
-| 27  | Goland              |
-| 28  | sqlmap              |
-| 29  | XSStrike            |
-| 30  | DangerousZone       |
-| 31  | SecLists            |
-| 32  | ghidra              |
-| 33  | jadx                |
+| 21  | adb                 |
+| 22  | mitmproxy           |
+| 23  | powershell          |
+| 24  | dotpeek             |
+| 25  | Pycharm Community   |
+| 26  | Goland              |
+| 27  | sqlmap              |
+| 28  | XSStrike            |
+| 29  | DangerousZone       |
+| 30  | SecLists            |
+| 31  | ghidra              |
+| 32  | jadx                |
 | 33  | metasploitframework |
 | 34  | VirtualBox          |
-| 34  | PuTTY               |
+| 35  | PuTTY               |
 
  

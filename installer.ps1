@@ -7,6 +7,7 @@ for ($i = 0; $i -lt $TOOLS.Length; $i++) {
     Write-Host "Installing $($TOOLS[$i])..."
     choco install $TOOLS[$i] -y
 }
+refreshenv
 Write-Host "Installing sqlmap..."
 py -3 -m pip install sqlmap
 Write-Host "Installing MetaSploit Framework..."

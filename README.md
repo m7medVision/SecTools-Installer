@@ -6,7 +6,7 @@ You should run this script as an administrator.
 ### Tools
 ------------
 
-|     | Name                |
+| #   | Name                |
 | --- | ------------------- |
 | 1   | Firefox             |
 | 2   | Google Chrome       |

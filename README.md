@@ -45,6 +45,8 @@ You should run this script as an administrator.
 | 35  | PuTTY               |
 | 36  | Process Hacker      |
 | 37  | ZigLang             |
-| 37  | openssl             |
+| 38  | OpenSSL             |
+| 39  | Warp                |
+| 40  | psiphon             |
 
  

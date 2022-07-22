@@ -1,6 +1,7 @@
 # SecTools Installer
 
-This is a simple powershell script that can install most important tools for cyber security researcher.
+This is a simple powershell script that can install most important tools for cyber security researcher. <br>
+You should run this script as an administrator.
 
 ### Tools
 ------------

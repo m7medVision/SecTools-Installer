@@ -44,5 +44,6 @@ This is a simple powershell script that can install most important tools for cyb
 | 35  | PuTTY               |
 | 36  | Process Hacker      |
 | 37  | ZigLang             |
+| 37  | openssl             |
 
  

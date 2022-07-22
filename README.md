@@ -48,5 +48,6 @@ You should run this script as an administrator.
 | 38  | OpenSSL             |
 | 39  | Warp                |
 | 40  | psiphon             |
+| 41  | OpenVPN             |
 
  

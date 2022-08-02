@@ -10,6 +10,8 @@ for ($i = 0; $i -lt $TOOLS.Length; $i++) {
 refreshenv
 Write-Host "Installing sqlmap..."
 py -3 -m pip install sqlmap
+Write-Host "Installing hashID..."
+py -3 -m pip install hashID
 Write-Host "Installing MetaSploit Framework..."
 $client = New-Object System.Net.WebClient
 $client.DownloadFile("https://windows.metasploit.com/metasploitframework-latest.msi", "metasploitframework-latest.msi")

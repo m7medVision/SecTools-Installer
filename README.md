@@ -49,5 +49,6 @@ You should run this script as an administrator.
 | 39  | Warp                |
 | 40  | psiphon             |
 | 41  | OpenVPN             |
+| 42  | hashID             |
 
  

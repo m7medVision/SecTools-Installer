@@ -1,6 +1,6 @@
-# SecTools Installer
+<p align="center"> SecTools Installer</p>
 
-This powershell script installs several key tools that are commonly used by cyber security researchers. To ensure the script runs properly, please make sure to run it with administrator privileges.
+<p align="center">This powershell script installs several key tools that are commonly used by cyber security researchers. To ensure the script runs properly, please make sure to run it with administrator privileges.</p>
 
 ### Tools
 ------------
